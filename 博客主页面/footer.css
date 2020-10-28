@@ -1,0 +1,14 @@
+div#footer {
+    clear: both;
+    /*margin: 0;*/
+    padding-top: 16px;
+    padding-bottom: 20px;
+    margin-left: 12px;
+    margin-top: 20px;
+    width: 1210px;
+    line-height: 24px;
+    background: #f0f0f0;
+    border-top: 0px solid #fff;
+    background: #fdfcf8 url(/ui2017/footer.png) top left repeat-x;
+    font-family: PingFangSC-Regular, 'Î¢ÈíÑÅºÚ', Verdana, Arial, 'ËÎÌå';
+}

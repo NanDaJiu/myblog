@@ -1,0 +1,21 @@
+html>body div#twonav {
+    margin-left: 12px;
+    height: 800px;
+    /*这行是添加的*/
+    background: deepskyblue;
+}
+div#twonav {
+    float: left;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 10px;
+    margin-top: 0px;
+    padding: 0;
+    border: 0;
+    width: 180px;
+    background-color: #f1f1f1;
+
+}
+.second{
+    float: left;
+}

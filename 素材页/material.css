@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    /*background: #fdfcf8;*/
+    /*background: url("imag/blue.jpg");*/
+    background: deepskyblue;
+}
+body {
+    font-family: PingFangSC-Regular, Verdana, Arial, '微软雅黑', '宋体';
+    font-size: 14px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+div#wrapper {
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+    width: 1239px;
+    text-align: left;
+    /*background-color: white;*/
+
+}
+div {
+    display: block;
+}

@@ -1,0 +1,13 @@
+div#sidebar {
+    float: left;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    padding: 0;
+    border: 0;
+    width: 160px;
+    /*background: transparent;*/
+    height: 800px;
+    background: white;
+}

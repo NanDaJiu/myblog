@@ -1,0 +1,18 @@
+html>body div#navsecondtwo {
+    margin-left: 0px;
+    height: 400px;
+    /*这行是添加的*/
+    background:url("葱.jpg");
+}
+div#navsecondtwo {
+    float: left;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding: 0;
+    border: 0;
+    width: 180px;
+    background-color: #f1f1f1;
+
+}
