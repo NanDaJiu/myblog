@@ -51,5 +51,11 @@ div#navfirst ul#menu li a{
     line-height: 40px;/*使标签里面的文字垂直居中*/
 
 }
+#login{
+    float: right;
+    /*width: 0px;*/
+    height: 100%;
+    padding: 0;
+}
 
 /*}*/

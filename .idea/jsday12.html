@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>点击按钮后将文本框改为复选框</title>
+</head>
+<body>
+      <script type="text/javascript">
+          onload=function () {
+              document.getElementById("mybuttom").onclick=function () {
+                  var mytext=document.getElementById("mytext")
+                  mytext.type="checkbox";
+
+              }
+
+          }
+      </script>
+      <input type="text" id="mytext">
+      <input type="button" value="将文本框改为复选框" id="mybuttom">
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>数据类型</title>
+</head>
+<body>
+      <script type="text/javascript">
+          //原始类型:undefine,String,Number,Boolean,Null
+          //引用类型:Object以及子类
+          //运算符typeof,这个运算符可以在程序的运行阶段动态的获取变量的数据类型
+          //求和，要求ab变量将来的数据类型必须是数字，不能是其他类型
+          function sum(a,b) {
+              if(typeof a=="number"&&typeof b=="number"){
+                  return a+b;
+              }
+              alert("必须是数字啦，索嗨")
+
+          }
+          sum(false,2)
+          alert(sum(1,false))//没有返回，返回了undefine
+          //isNnN(),判断是否为数字,parseInt("")可以将字符串转换成数字，并且取整数位
+          //parseFloat()
+
+
+      </script>
+
+</body>
+</html>

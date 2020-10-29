@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>局部变量和全局变量</title>
+</head>
+<body>
+     <script type="text/javascript">
+         var i;//这个就是全局变量
+         //函数里面的形参就是局部变量
+         function sum() {
+             myname="hee";//没有使用var,不管在哪，都是全局变量,加上var就会报错
+
+         }
+         sum();//要先访问这个函数才会启动myname
+         alert(myname)
+
+     </script>
+
+</body>
+</html>

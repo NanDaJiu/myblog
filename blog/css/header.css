@@ -6,7 +6,7 @@ div#header, div#header_index {
     width: 1210px;
     height: 230px;
     background-color: #fdfcf8;
-    background: url("imag/log.png");
+    background: url("../imag/log.png");
     background-repeat: no-repeat;
     background-size: 100% auto;
 }

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>函数</title>
+</head>
+<body>
+      <script type="text/javascript">
+          function sum(a,b) {
+              return a+b;
+
+          }
+          var i1=sum(1,2)
+          alert(i1)
+          var i2=sum("jack")
+          alert(i2)
+          alert(sum())//NOT A NUMBER
+          alert(sum(1,1,1))//结果为2，最后一个1被抛弃了
+          //js中函数重名，后面的会覆盖前面的，因为js不能重载
+
+      </script>
+
+</body>
+</html>

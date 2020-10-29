@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>事件</title>
+</head>
+<body>
+     <input type="button" value="buttom" onclick="sayHello()">
+     <input type="button" value="buttom2" id="mybuttom2">
+     <input type="button" value="buttom3" id="mybuttom3">
+     <input type="button" value="buttom4" id="mybuttom4">
+     <script>
+         function sayHello() {
+              alert("hello js!");
+         }
+     </script>
+
+     <script type="text/javascript">
+         //第二种注册事件的方式是使用纯js代码完成事件的注册
+         function dosome() {
+             alert("dosome")
+
+         }
+         //第一步，先获取对象
+         var bu2=document.getElementById("mybuttom2");
+         //第二步,给按钮对象的Onclick属性赋值
+         bu2.onclick=dosome;//注意，千万不能加小括号
+
+         var bu3=document.getElementById("mybuttom3")
+         bu3.onclick=function (){
+             alert("buttom3")
+
+         }
+
+         document.getElementById("mybuttom4").onclick=function () {
+             alert("buttom4")
+
+         }
+
+     </script>
+
+
+</body>
+</html>

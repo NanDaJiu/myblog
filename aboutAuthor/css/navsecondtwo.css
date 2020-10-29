@@ -2,7 +2,7 @@ html>body div#navsecondtwo {
     margin-left: 0px;
     height: 400px;
     /*这行是添加的*/
-    background:url("葱.jpg");
+    background:url("../葱.jpg");
 }
 div#navsecondtwo {
     float: left;

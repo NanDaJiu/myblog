@@ -15,24 +15,24 @@
     <session id="1432967268">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="7" />
           <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="39" />
+          <entry key="css" value="42" />
           <entry key="gif" value="1" />
-          <entry key="html" value="40" />
+          <entry key="html" value="43" />
           <entry key="jpg" value="4" />
-          <entry key="js" value="5" />
+          <entry key="js" value="6" />
           <entry key="png" value="4" />
           <entry key="tt" value="1" />
           <entry key="txt" value="1" />
@@ -40,27 +40,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="39" />
-          <entry key="HTML" value="40" />
+          <entry key="CSS" value="42" />
+          <entry key="HTML" value="43" />
           <entry key="Image" value="9" />
-          <entry key="JavaScript" value="5" />
+          <entry key="JavaScript" value="6" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1231" />
-          <entry key="html" value="1506" />
-          <entry key="js" value="80" />
+          <entry key="css" value="1266" />
+          <entry key="html" value="1743" />
+          <entry key="js" value="153" />
           <entry key="tt" value="11" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1231" />
-          <entry key="HTML" value="1506" />
-          <entry key="JavaScript" value="80" />
+          <entry key="CSS" value="1266" />
+          <entry key="HTML" value="1743" />
+          <entry key="JavaScript" value="153" />
           <entry key="PLAIN_TEXT" value="21" />
         </counts>
       </usages-collector>
@@ -69,10 +69,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/博客主页面/index.html">
+        <entry file="file://$PROJECT_DIR$/blog/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+            <state relative-caret-position="494">
+              <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -83,7 +83,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/登录页面/logincss.css">
+        <entry file="file://$PROJECT_DIR$/blog/css/footer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/jq/navfirst.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aboutAuthor/author.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/css/navfirst.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1026">
+              <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login/css/logincss.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
@@ -101,16 +137,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/素材页/material.html">
+        <entry file="file://$PROJECT_DIR$/material/material.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="437">
+              <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/素材页/navsecond.css">
+        <entry file="file://$PROJECT_DIR$/material/css/navsecond.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="969">
               <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
@@ -119,19 +155,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/素材页/material.css">
+        <entry file="file://$PROJECT_DIR$/material/css/material.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="551">
               <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/博客主页面/navsecond.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -141,19 +168,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="6dc7e32e-a939-4abc-aa87-def87cc6761a" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/imag/head.html" />
-        <option value="$PROJECT_DIR$/head.js" />
-        <option value="$PROJECT_DIR$/logincss.css" />
-        <option value="$PROJECT_DIR$/middle.html" />
         <option value="$PROJECT_DIR$/head.css" />
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/aboutAuthor.html" />
@@ -185,19 +211,26 @@
         <option value="$PROJECT_DIR$/博客主页面/maincontent.css" />
         <option value="$PROJECT_DIR$/博客主页面/footer.css" />
         <option value="$PROJECT_DIR$/博客主页面/index.css" />
-        <option value="$PROJECT_DIR$/博客主页面/navfirst.css" />
         <option value="$PROJECT_DIR$/博客主页面/navsecond.css" />
         <option value="$PROJECT_DIR$/关于作者页/author.css" />
         <option value="$PROJECT_DIR$/关于作者页/navsecond2.css" />
-        <option value="$PROJECT_DIR$/关于作者页/author.html" />
         <option value="$PROJECT_DIR$/关于作者页/maincontent.css" />
         <option value="$PROJECT_DIR$/关于作者页/navsecondtwo.css" />
         <option value="$PROJECT_DIR$/关于作者页/twonav.css" />
         <option value="$PROJECT_DIR$/关于作者页/navsecond.css" />
-        <option value="$PROJECT_DIR$/博客主页面/index.html" />
         <option value="$PROJECT_DIR$/素材页/material.css" />
         <option value="$PROJECT_DIR$/素材页/navsecond.css" />
+        <option value="$PROJECT_DIR$/关于作者页/author.html" />
         <option value="$PROJECT_DIR$/素材页/material.html" />
+        <option value="$PROJECT_DIR$/博客主页面/navfirst.css" />
+        <option value="$PROJECT_DIR$/博客主页面/index.html" />
+        <option value="$PROJECT_DIR$/blog/css/navfirst.css" />
+        <option value="$PROJECT_DIR$/webStudy/web.html" />
+        <option value="$PROJECT_DIR$/blog/jq/navfirst.js" />
+        <option value="$PROJECT_DIR$/blog/css/footer.css" />
+        <option value="$PROJECT_DIR$/aboutAuthor/author.html" />
+        <option value="$PROJECT_DIR$/material/material.html" />
+        <option value="$PROJECT_DIR$/blog/index.html" />
       </list>
     </option>
   </component>
@@ -208,17 +241,16 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="585" />
-    <option name="y" value="75" />
+    <option name="x" value="750" />
+    <option name="y" value="55" />
     <option name="width" value="980" />
-    <option name="height" value="1105" />
+    <option name="height" value="1104" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,17 +261,18 @@
             <path>
               <item name="创新实践" type="b2602c69:ProjectViewProjectNode" />
               <item name="创新实践" type="462c0819:PsiDirectoryNode" />
-              <item name="登录页面" type="462c0819:PsiDirectoryNode" />
+              <item name="aboutAuthor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="创新实践" type="b2602c69:ProjectViewProjectNode" />
               <item name="创新实践" type="462c0819:PsiDirectoryNode" />
-              <item name="素材页" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,13 +282,15 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\JD\IdeaProjects\Java\创新实践\关于作者页" />
-      <recent name="C:\Users\JD\IdeaProjects\Java\创新实践\博客主页面\imag" />
-      <recent name="C:\Users\JD\IdeaProjects\Java\创新实践\博客主页面" />
-      <recent name="C:\Users\JD\IdeaProjects\Java\创新实践\登录页面" />
+      <recent name="C:\Users\JD\IdeaProjects\Java\创新实践\blog\imag" />
+      <recent name="C:\Users\JD\IdeaProjects\Java\创新实践\material\css" />
+      <recent name="C:\Users\JD\IdeaProjects\Java\创新实践\login\css" />
+      <recent name="C:\Users\JD\IdeaProjects\Java\创新实践\aboutAuthor\css" />
+      <recent name="C:\Users\JD\IdeaProjects\Java\创新实践\博客主页面\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -306,18 +341,19 @@
       <workItem from="1603330613746" duration="5829000" />
       <workItem from="1603429561267" duration="662000" />
       <workItem from="1603681779133" duration="1868000" />
-      <workItem from="1603854646316" duration="273000" />
+      <workItem from="1603854646316" duration="2312000" />
+      <workItem from="1603871131550" duration="6463000" />
+      <workItem from="1603934138892" duration="1764000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65351000" />
+    <option name="totallyTimeSpent" value="75617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12747689" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12747689" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -390,7 +426,6 @@
     <entry file="file://$PROJECT_DIR$/博客主页面/logo.html" />
     <entry file="file://$PROJECT_DIR$/博客主页面/head.html" />
     <entry file="file://$PROJECT_DIR$/博客主页面/1.html" />
-    <entry file="file://$PROJECT_DIR$/博客主页面/css/index.css" />
     <entry file="file://$PROJECT_DIR$/博客主页面/topmenu.html" />
     <entry file="file://$PROJECT_DIR$/博客主页面/mRight.html" />
     <entry file="file://$PROJECT_DIR$/博客主页面/mCotent.html" />
@@ -398,125 +433,113 @@
     <entry file="file://$PROJECT_DIR$/博客主页面/aboutAuthor.html" />
     <entry file="file://$PROJECT_DIR$/博客主页面/aboutAuthor.css" />
     <entry file="file://$PROJECT_DIR$/博客主页面2/index.html" />
-    <entry file="file://$PROJECT_DIR$/登录页面/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/博客主页面/imag/background.gif">
+    <entry file="file://$PROJECT_DIR$/blog/imag/background.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/博客主页面/imag/bg.png">
+    <entry file="file://$PROJECT_DIR$/blog/imag/bg.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/博客主页面/imag/log.png">
+    <entry file="file://$PROJECT_DIR$/blog/imag/log.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/博客主页面/footer.css">
+    <entry file="file://$PROJECT_DIR$/blog/css/header.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/博客主页面/header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/博客主页面/imag/first.png">
+    <entry file="file://$PROJECT_DIR$/blog/imag/first.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/博客主页面/maincontent.css">
+    <entry file="file://$PROJECT_DIR$/blog/css/maincontent.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/博客主页面/sidebar.css">
+    <entry file="file://$PROJECT_DIR$/blog/css/sidebar.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/关于作者页/author.css">
+    <entry file="file://$PROJECT_DIR$/aboutAuthor/css/author.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/博客主页面/navfirst.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/关于作者页/navsecond.css">
+    <entry file="file://$PROJECT_DIR$/aboutAuthor/css/navsecond.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/关于作者页/maincontent.css">
+    <entry file="file://$PROJECT_DIR$/aboutAuthor/css/maincontent.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/关于作者页/author.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/关于作者页/葱.jpg">
+    <entry file="file://$PROJECT_DIR$/aboutAuthor/葱.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/关于作者页/twonav.css">
+    <entry file="file://$PROJECT_DIR$/aboutAuthor/css/twonav.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/关于作者页/navsecondtwo.css">
+    <entry file="file://$PROJECT_DIR$/aboutAuthor/css/navsecondtwo.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/博客主页面/index.css">
+    <entry file="file://$PROJECT_DIR$/blog/css/navsecond.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="494">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/博客主页面/index.html">
+    <entry file="file://$PROJECT_DIR$/blog/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
-          <folding>
-            <element signature="n#style#0;n#h2#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="160">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/登录页面/logincss.css">
+    <entry file="file://$PROJECT_DIR$/webStudy/web.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/css/navfirst.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/css/logincss.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
@@ -530,31 +553,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/素材页/material.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/素材页/navsecond.css">
+    <entry file="file://$PROJECT_DIR$/material/css/navsecond.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
           <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/素材页/material.css">
+    <entry file="file://$PROJECT_DIR$/material/css/material.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/博客主页面/navsecond.css">
+    <entry file="file://$PROJECT_DIR$/blog/jq/navfirst.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/css/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutAuthor/author.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/material.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
-          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>

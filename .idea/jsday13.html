@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>捕捉回收建</title>
+</head>
+<body>
+      <script>
+          onload=function () {
+              var keyval=document.getElementById("text")
+              keyval.onkeydown=function (event) {
+                  if(event.keyCode==13){
+                      alert("验证中啦")
+                  }
+
+              }
+
+          }
+      </script>
+      <input type="text" id="text">
+
+</body>
+</html>
