@@ -7,13 +7,14 @@ html>body div#navsecond {
 div#navsecond {
     float: left;
     margin-left: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
     margin-right: 10px;
     margin-top: 0px;
     padding: 0;
     border: 0;
     width: 180px;
     background-color: #f1f1f1;
+    border-radius:10px;
 
 }
 #homefirst div#navsecond h2:first-child, #homefirst div#sidebar h2:first-child {
@@ -33,6 +34,7 @@ div#navsecond ul{
     margin: 0;
     padding: 0;
     width: 180px;
+    border-radius:10px;
 }
 div#navsecond ul li a{
     display: block;
@@ -40,6 +42,12 @@ div#navsecond ul li a{
     padding: 8px 16px;
     text-decoration: none;
     text-align: left;
+    border-radius:10px;
+    line-height: 29.6px;
+}
+div#navsecond ul li a:hover{
+    height: 45px;
+    line-height: 45px;
 }
 /*鼠标移动到选项上修改背景颜色*/
 div#navsecond ul li a:hover{

@@ -3,11 +3,12 @@ div#sidebar {
     margin-top: 0px;
     margin-right: 0px;
     margin-left: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
     padding: 0;
     border: 0;
     width: 160px;
     /*background: transparent;*/
     height: 800px;
     background: white;
+    border-radius:10px;
 }
