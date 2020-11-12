@@ -11,10 +11,21 @@
     <link rel="stylesheet" type="text/css" href="css/header.css">
     <link rel="stylesheet" type="text/css" href="css/footer.css">
     <script src="jq/navfirst.js"></script>
-    <script src="js/1.js"></script>
+    <script src="js/mouseover.js"></script>
+    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="../鼠标.js"></script>
+    <style>
+        img {
+            position: absolute;
+            top: 2px;
+            left: 2px;
+        }
+    </style>
 </head>
 <body id="homefirst">
+
       <div id="wrapper">
+
           <!--<div id="header">-->
 
           <!--</div>-->
@@ -24,10 +35,7 @@
                   <li id="a2"><a title="web学习" href="../webStudy/web.html">web学习</a></li>
                   <li id="a3"><a title="素材分享" href="../material/material.html">素材分享</a></li>
                   <li id="a4"><a title="关于作者" href="../aboutAuthor/author.html">关于作者</a></li>
-                  <li style="float: right" id="a5"><a title="登录" href="../login/login.html">登录</a></li>
-                  <!--<div id="search">-->
-                      <!--<input type="text" placeholder="搜索">-->
-                  <!--</div>-->
+
                   <!--<div id="login">-->
                       <!--<a href="../login/login.html" title="登录">-->
                           <!--<img src="imag/login3.jpg">-->
@@ -37,6 +45,11 @@
                   <!--<li id="a6"><a title="title6">菜单6</a></li>-->
                   <!--<li id="a7"><a title="title7">菜单7</a></li>-->
               </ul>
+              <div id="search">
+                  <input type="text" placeholder="搜索" name="crid">
+                  <button type="submit"></button>
+              </div>
+              <li id="a5"><a title="登录" href="../login/login.html">登录</a></li>
 
           </div>
           <div id="navsecond">
@@ -51,9 +64,16 @@
               </ul>
           </div>
           <div id="maincontent">
-              <div id="javaStudy" style="display: none">
-                  <p>javastudy</p>
-              </div>
+              <main>
+                  <div class="cube">
+                      <div class="img1"></div>
+                      <div class="img2"></div>
+                      <div class="img3"></div>
+                      <div class="img4"></div>
+                      <div class="img5"></div>
+                      <div class="img6"></div>
+                  </div>
+              </main>
           </div>
           <div id="sidebar">
 
@@ -66,6 +86,23 @@
 
           </div>
       </div>
+      <img src="imag/timg1.gif">
 
 </body>
+<script>
+    var pic = document.querySelector('img');
+    document.addEventListener('mousemove', function(e) {
+        // 1. mousemove只要我们鼠标移动1px 就会触发这个事件
+        // console.log(1);
+        // 2.核心原理： 每次鼠标移动，我们都会获得最新的鼠标坐标， 把这个x和y坐标做为图片的top和left 值就可以移动图片
+        var x = e.pageX;
+        var y = e.pageY;
+        // console.log('x坐标是' + x, 'y坐标是' + y);
+        //3 . 千万不要忘记给left 和top 添加px 单位
+        pic.style.left = x + 'px';
+        pic.style.top = y  + 'px';
+
+
+    });
+</script>
 </html>

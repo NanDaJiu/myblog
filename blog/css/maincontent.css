@@ -14,3 +14,75 @@ div#maincontent {
     border-radius:10px;
 
 }
+mian{
+    margin: 0;
+    box-sizing: border-box;
+    background: #2f3542;
+    display: flex;
+    align-content: flex-end;
+    justify-content: center;
+    height: 100vh;
+}
+.cube{
+    width: 250px;
+    height: 250px;
+    transform-style: preserve-3d;
+    animation:rotate-cube 10s ease-in-out infinite;
+}
+.cube>div{
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    background-position: center center;
+    opacity: 0.8;
+    position: absolute;
+
+}
+.cube .img1{
+    background-image: url("../imag/pexels-henda-watani-320014.jpg");
+    /*transform: rotateY(90deg);*/
+    transform: translateZ(125px);
+}
+.cube .img2{
+    background-image: url("../imag/pexels-junior-teixeira-2047905.jpg");
+    transform: rotateY(90deg) translateZ(125px);
+}
+.cube .img3{
+    background-image: url("../imag/pexels-rahul-716398.jpg");
+    transform: rotateY(-90deg) translateZ(125px);
+}
+.cube .img4{
+    background-image: url("../imag/pexels-rakicevic-nenad-1274260.jpg");
+    transform: rotateX(90deg) translateZ(125px);
+}
+.cube .img5{
+    background-image: url("../imag/pexels-sam-kolder-2387877.jpg");
+    transform: rotateX(-90deg) translateZ(125px);
+}
+.cube .img6{
+    background-image: url("../imag/pexels-burak-k-704555.jpg");
+    transform: rotateY(180deg) translateZ(125px);
+
+}
+@keyframes rotate-cube {
+    0%{
+        transform: rotateX(0deg);
+    }
+    20%{
+        transform:rotateY(-90deg);
+    }
+    40%{
+        transform: rotateX(-90deg);
+    }
+    60%{
+        transform: rotateY(90deg);
+    }
+    80%{
+        transform: rotateX(90deg);
+    }
+    100%{
+        transform: rotateX(0deg) rotateY(0deg);
+    }
+
+}
+

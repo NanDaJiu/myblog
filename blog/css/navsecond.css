@@ -5,6 +5,7 @@ html>body div#navsecond {
     background: white;
 }
 div#navsecond {
+
     float: left;
     margin-left: 0px;
     margin-bottom: 10px;
@@ -30,6 +31,8 @@ div#navsecond h2, div#sidebar h2 {
     font-family: '微软雅黑';
 }
 div#navsecond ul{
+    /*display: flex;*/
+    /*flex-direction: column;*/
     list-style-type: none;
     margin: 0;
     padding: 0;
